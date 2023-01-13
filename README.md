@@ -2,4 +2,4 @@
 
 Hi there!
 
-This is something I wrote purely for enjoyment; it's purpose is to aid intercollegiate figure skating teams in knowing where they stand throughout each qualifying competition. Traditionally the live team results at each competition fall behind the live individual results, and this aims to bridge that gap. 
+I created this repo purely for enjoyment; this mini project aims to bridge the gap between the release of individual results and team results at intercollegiate figure skating competitions. Traditionally, individual results are released live and team results are released sporadically throughout the competition. At some competitions, skaters and teams may need to wait until the competition has concluded for information on team standings.  
