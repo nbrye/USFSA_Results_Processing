@@ -5,5 +5,5 @@
 [Collegiate Figure Skating](https://www.usfigureskating.org/skate/skating-opportunities/collegiate-skating) <br>
  [US Figure Skating Fanzone](https://usfigureskatingfanzone.com/sports/collegiate-skating/schedule/2023-24)
 
- This script is currently being used as a notebook, the most recent version being `'/notebooks/USFSA_Results_Processing_V4.ipynb'`. In order to run the notebook and calculate results, specify the competition of interest after `main_url =` and run all cells in the notebook.
+ This script is currently being used as a notebook, the most recent version being `'/notebooks/USFSA_Results_Processing_V5.ipynb'`. In order to run the notebook and calculate results, specify the competition of interest after `main_url =` and run all cells in the notebook.
  
